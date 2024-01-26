@@ -5,3 +5,9 @@ th{
   text-align: left;
   font-size: larger;
 }
+
+input{
+  width: 100%;
+  font-size: larger;
+  padding: 0.2rem;
+}
